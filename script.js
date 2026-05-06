@@ -1,4 +1,6 @@
-
+function messageAmour() {
+    alert("tu comptes énormément pour moi !");
+}
 
 function messageAmour() {
     alert("tu comptes énormément pour moi et tu me manques a la seconde ou tu pars !");
